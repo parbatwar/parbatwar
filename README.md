@@ -1,111 +1,70 @@
-<!-- Banner -->
-<h1 align="center">Hi, I'm <strong>Hill</strong></h1>
-<h3 align="center">Python Developer • Integrations Engineer • AI & SaaS Builder</h3>
-
-<p align="center">
-  I build scalable backend systems, multi-tenant SaaS platforms, and AI-powered features.<br>
-  Passionate about clean architecture, integrations, async Python, and real-world problem solving.
-</p>
+<h1 align="center">Hello, I'm <a href="https://github.com/parbatwar">Parbat Sunuwar</a></h1>
+<h3 align="center">Python Backend Developer | Computing Student | AI & Data Enthusiast</h3>
 
 ---
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.12-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/FastAPI-Expert-teal?style=flat-square">
-  <img src="https://img.shields.io/badge/PostgreSQL-Database%20Design-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Docker-Containerization-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/AI-NLP%20%7C%20Embeddings-orange?style=flat-square">
-</p>
+### 👋 About Me
+
+I’m a **Computing student** currently pursuing my Bachelor's in Computing.  
+I work as a **Backend Developer**, focusing on building reliable, scalable, and well-structured systems.
+
+- **Currently learning:** Backend architecture, Full-stack development, DevOps  
+- **Interests:** Data Science, NLP, AI/Machine Learning  
+- **Fun fact:** I enjoy building things from scratch and solving real-world problems through code
 
 ---
 
-## 🚀 Current Projects
+### 🛠️ Tech Stack
 
-### **Chatboq – Multi-Tenant Messaging SaaS**
-- Scalable inbox for Discord, Facebook, Instagram, Slack, Telegram  
-- Message Dispatchers, WebSockets, Async Workers  
-- OAuth flows: Google, Zoho CRM, Pipedrive CRM  
-- Multi-tenant DB architecture + service-based modules
+#### **Programming Languages**
+`Python` • `Java` • `C#` • `JavaScript`
 
-### **ONE HRMS – Full HR System (FYP)**
-- Recruitment with **AI Resume Screening**  
-- Tailwind job portal + internal dashboard  
-- Attendance, Leave, Payroll (Nepali fiscal year)  
-- Candidate ranking using embeddings  
+#### **Backend Frameworks**
+`FastAPI` • `Django`
 
-### **AI/NLP Work**
-- Resume parser + semantic vector scoring  
-- MiniLM embeddings, TF-IDF, cosine similarity  
-- Automated candidate-job matching engine  
+#### **Python Ecosystem & Tools**
+`Pydantic` • `SQLAlchemy` • `Celery` • `Dramatiq` • `ARQ` • `Jinja2`
 
----
+#### **Databases**
+`PostgreSQL` • `MySQL` • `Oracle` • `Redis`
 
-## 🛠 Tech Stack
+#### **DevOps & Infrastructure**
+`Docker` • `Docker Compose` • `NGINX` • `WSL2`  
+`GitHub Actions` • CI/CD pipelines  
 
-### **Backend**
-- Python • FastAPI • Django  
-- AsyncIO • WebSockets • REST APIs  
-- SQLAlchemy ORM • Pydantic v2  
+#### **Cloud & Integrations**
+`OAuth` • `Google APIs` • `Slack API` • `Discord Bots` • `Telegram Bots`  
+`REST APIs` • Microservice Communication
 
-### **Databases**
-- PostgreSQL  
-- Redis (Caching, Queueing)
-
-### **Integrations**
-- Discord API  
-- Facebook/Instagram Graph  
-- Slack API  
-- Telegram Bot API  
-- Google OAuth • Forms • Sheets • Drive  
-- Zoho CRM • Pipedrive CRM APIs  
-
-### **DevOps**
-- Docker & Docker Compose  
-- Nginx  
-- Cloudflare Tunnel / Ngrok  
-- GitHub Actions  
-
-### **Frontend**
-- HTMX • Alpine.js  
-- TailwindCSS  
+#### **AI & Data**
+`NLP` • `TF-IDF` • `Sentence Transformers` • `Embedding Models`  
+`Data Analysis` • `Pandas` • `NumPy`
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Featured Project
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true">
-</p>
+**[Portfolio Website](https://www.parbatsunuwar.com.np)**  
+A personal learning project showcasing my work, skills, and growth.
 
 ---
 
-## 🎯 What I’m Focusing On
-- Improving backend scalability & architecture  
-- Building production-grade integrations  
-- Deepening NLP/AI model usage in recruitment  
-- Moving toward microservices + Kubernetes  
-
----
-
-## 🤝 Connect With Me
+### 🌐 Connect With Me
 
 <p align="left">
-• LinkedIn: <br>
-• Portfolio: <br>
-• Email: <br>
+  <a href="https://www.linkedin.com/in/parbatwar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Parbat%20Sunuwar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
-## 🧭 About My Repositories
-I follow a practical, maintainable approach:
-- Service-oriented design  
-- Consistent naming standards  
-- Type-safety with Pydantic v2  
-- Clean async patterns  
-- Docker-first development  
+### 🧩 My Motto  
+> _“Build with intention. Learn with curiosity. Improve without stopping.”_
 
-If any of my work inspires you, feel free to explore, fork, or reach out.
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parbatwar&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parbatwar&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
