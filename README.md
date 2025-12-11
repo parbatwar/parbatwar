@@ -71,13 +71,6 @@ class Developer:
 
 ---
 
-## 🎨 Featured Work
-
-### [Personal Portfolio](https://www.parbatsunuwar.com.np)
-A showcase of my development journey and projects. Built to explore modern web technologies while demonstrating my skills in backend development and system design.
-
----
-
 ## 💭 Philosophy
 
 > **"The only way to do great work is to love what you do."** — Steve Jobs
