@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm [Parbat Sunuwar](https://github.com/parbatwar)
 
-### Backend Developer | Computing Student | Problem Solver
+### Backend Developer | Computing Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parbatwar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.parbatsunuwar.com.np)
