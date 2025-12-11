@@ -22,7 +22,7 @@ class Developer:
         self.role = "Backend Developer"
         self.current_focus = ["Backend Architecture", "Full-stack Development", "DevOps"]
         self.interests = ["Data Science", "AI/ML"]
-        self.motto = "Build with intention. Learn with curiosity. Improve without stopping."
+        self.motto = "Still learning, Still building."
 ```
 
 ---
