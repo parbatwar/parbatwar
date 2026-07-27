@@ -23,7 +23,7 @@ actually work deeply satisfying. That's what keeps me going.
 class Parbat:
     def __init__(self):
         self.name = "Parbat Sunuwar"
-        self.role = "Software Engineer"
+        self.role = "Python Developer"
         self.current_focus = ["Backend Development", "Data Engineering"]
         self.interests = ["System Design", "Distributed Systems", "Data Pipelines", "Automation"]
 
