@@ -1,43 +1,30 @@
-<div align="center">
 
-# 👋 Hi there, I'm [Parbat Sunuwar](https://github.com/parbatwar)
+# Hey, I'm a Backend Developer 👋
 
-### Software Engineer • Backend & Data
+I build backend systems that power digital products, automate workflows, and solve real-world problems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parbatwar/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.parbatsunuwar.com.np)
+My focus is on **API development, database architecture, automation, and system integrations**, with an emphasis on writing clean, maintainable code and designing systems that are reliable and scalable.
 
-</div>
+With experience across both backend development and ecommerce, I bring a practical understanding of how technology supports business operations. I enjoy building solutions that reduce manual work, connect different platforms, and make data more useful.
 
----
+### 🛠️ Tech Stack
 
-## 🎯 About Me
+- **Languages:** Python, JavaScript, SQL
+- **Backend:** Django, FastAPI
+- **Database:** PostgreSQL, Oracle, MySQL
+- **Tools:** Docker, Git, GitHub, Linux
+- **Specialties:** REST APIs, Backend Architecture, Workflow Automation, System Integrations
 
-I just really like building things. Backend systems, automation scripts, 
-data pipelines. I find the process of designing something clean and watching it 
-actually work deeply satisfying. That's what keeps me going.
+### 🚀 What I Work On
 
-```python
+- Designing and developing backend APIs
+- Building scalable and maintainable database-driven applications
+- Automating repetitive processes and business workflows
+- Integrating third-party services and platforms
+- Improving system reliability, efficiency, and performance
 
+### 💡 My Approach
 
-class Parbat:
-    def __init__(self):
-        self.name = "Parbat Sunuwar"
-        self.role = "Python Developer"
-        self.current_focus = ["Backend Development", "Data Engineering"]
-        self.interests = ["System Design", "Distributed Systems", "Data Pipelines", "Automation"]
+I enjoy turning complex problems into simple, practical solutions. I believe good engineering goes beyond writing functional code. It's about understanding the problem, making thoughtful technical decisions, and building systems that remain useful as they grow.
 
-    def motto(self):
-        return "Still learning. Still building."
-
-```
-
-## 🚀 Currently
-
-- 🌱 Learning distributed systems and cloud technologies
-- 💻 Building backend applications with FastAPI and Django
-- 📊 Freelancing python scraping and automation on Upwork
-- 📚 Exploring scalable data engineering architectures
-
-
----
+**For me, good engineering isn't just about making things work. It's about making them work better.**
